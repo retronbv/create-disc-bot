@@ -1,0 +1,19 @@
+{
+  "name": "create-disc-bot",
+  "version": "0.0.10",
+  "description": "Quick and easy way to setup a folder for your new discord bot!",
+  "bin": {
+    "create-disc-bot": "cli.js"
+  },
+  "keywords": [
+    "retronbv",
+    "retron",
+    "retronlabs",
+    "discord"
+  ],
+  "author": "retronbv",
+  "license": "GNU",
+  "dependencies": {
+    "fs": "0.0.1-security"
+  }
+}
